@@ -1,0 +1,12 @@
+lung_cancer_data.csv
+id,age,gender,smoking_status,diagnosis
+1,65,Male,Former smoker,Lung cancer
+2,70,Female,Non-smoker,Lung cancer
+3,55,Male,Current smoker,Lung cancer
+4,60,Female,Former smoker,No lung cancer
+5,75,Male,Current smoker,Lung cancer
+6,50,Female,Non-smoker,No lung cancer
+7,68,Male,Former smoker,Lung cancer
+8,72,Female,Non-smoker,Lung cancer
+9,58,Male,Current smoker,Lung cancer
+10,62,Female,Former smoker,No lung cancer
